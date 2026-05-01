@@ -1,1 +1,1 @@
-# ecommerce-django-backend
+# ecommerce-django-backend-rest-api
